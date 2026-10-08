@@ -1,0 +1,18 @@
+{
+  "saved_artifact_valid": true,
+  "chapters": [
+    "Vehicular Ad Hoc Networks (VANETs)",
+    "Internet of Vehicles (IoV)",
+    "Edge Computing",
+    "Fog Computing",
+    "Cloud-Based Architectures",
+    "Middleware Frameworks",
+    "Data Synchronization",
+    "Data Consistency in Distributed Autonomous Systems"
+  ],
+  "all_code_executed_without_errors": true,
+  "all_24_main_calculations_passed": true,
+  "embedded_images_and_navigation_valid": true,
+  "notebook_bytes": 1773916,
+  "html_bytes": 2148103
+}
